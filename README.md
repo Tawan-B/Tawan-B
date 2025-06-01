@@ -47,21 +47,21 @@
   </summary>
   <br/>
   <ul>
-    <li id="quote2021">
+    <li id="quote???">
       <i>
         “The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates”
       </i>
       🎓
     </li>
     <br/>
-    <li id="quote2022">
+    <li id="quoteAristotle">
       <i>
         “The ignorant man affirms, the scientist doubts, the wise man reflects.” ~ Aristotle
       </i>
       📚
     </li>
      <br/>
-    <li id="quote2022">
+    <li id="quoteSagan">
       <i>
         “We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. This is a clear prescription for disaster.” ~ Sagan, — <b>1990<b> —
       </i>
