@@ -11,14 +11,17 @@
   </summary>
   <br/>
   <div>
-    <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=amazon-rds&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />            
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=amazon-rds&logoColor=white" />           
     <img src="https://img.shields.io/badge/MySQL-478CBF?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=htmx&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=webtrees&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" />
     
   </div>
 </details>
@@ -40,7 +43,7 @@
 
 <details>
   <summary>
-    💬 Inspirational quotes that keep me motivated to code: 
+    💬 Inspirational quotes that keep me motivated to code and express my perspective: 
   </summary>
   <br/>
   <ul>
@@ -53,14 +56,28 @@
     <br/>
     <li id="quote2022">
       <i>
-        “The ignorant man affirms, the scientist doubts, the wise man reflects. —ARISTOTLE”
+        “The ignorant man affirms, the scientist doubts, the wise man reflects.” ~ Aristotle
       </i>
       📚
     </li>
+     <br/>
+    <li id="quote2022">
+      <i>
+        “We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology. This is a clear prescription for disaster.” ~ Sagan, — <b>1990<b> —
+      </i>
+      🌌
+    </li>
     <br/>
-    
 
   <div align="right">
     <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
+  </div>
+</details>
+</details>
+<br/>
+  <div>
+<img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=00FF00"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=00FF00"/>
+
   </div>
 </details>
