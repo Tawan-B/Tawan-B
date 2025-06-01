@@ -2,9 +2,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+there%2C+I'm+Tawan!;I'm+studying+Information+Technology" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF00&width=435&lines=Greetings%2C+I'm+Tawan.;Currently+studying+I.T" alt="Typing SVG" /></a>
   <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
 </div>
 
