@@ -1,9 +1,12 @@
 <!--**Tawan-B/Tawan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+there%2C+I'm+Tawan!;I'm+studying+Information+Technology" alt="Typing SVG" /></a>
-</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+there%2C+I'm+Tawan!;I'm+studying+Information+Technology" alt="Typing SVG" />
+  </a>
+  <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
+</div>
 
 <details>
   <summary>
@@ -70,11 +73,10 @@
     <br/>
 
   <div align="right">
-    <img src="./assets/falloutCoffe.gif" width="150px" height="145.4px"/>
+    <img src="./assets/falloutTea.gif" width="150px" height="145.4px"/>
   </div>
 </details>
 </details>
-<br/>
   <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=00FF00"/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=00FF00"/>
