@@ -1,11 +1,9 @@
 <!--**Tawan-B/Tawan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" /></a>
   <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
 </div>
-
 <details>
   <summary>
     👨‍💻 I'm returning to my code and data journey after a short break, i enjoy learning new languages, libraries, and frameworks. I'm currently learning: 
@@ -23,10 +21,8 @@
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=htmx&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=webtrees&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" />
-    
   </div>
 </details>
-
 <details>
   <summary>
     💻 Interesting technologies which I hope to learn in the future: 
@@ -38,10 +34,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    
   </div>
 </details>
-
 <details>
   <summary>
     💬 Inspirational quotes that keep me motivated to code and express my perspective: 
@@ -69,7 +63,6 @@
       🌌
     </li>
     <br/>
-
   <div align="right">
     <img src="./assets/falloutTea.gif" width="150px" height="145.4px"/>
   </div>
@@ -78,6 +71,5 @@
   <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=00FF00"/>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&bg_color=000000&border_color=00FF00&title_color=00FF00&text_color=00FF00"/>
-
   </div>
 </details>
