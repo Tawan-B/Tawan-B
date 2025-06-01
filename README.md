@@ -70,7 +70,7 @@
     <br/>
 
   <div align="right">
-    <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
+    <img src="./assets/falloutDrink.gif" width="270px" height="145.4px"/>
   </div>
 </details>
 </details>
