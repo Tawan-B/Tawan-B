@@ -85,7 +85,7 @@
           <img src="./assets/falloutTea.gif" width="150px" height="145.4px"/>
       </a>
   </div>
-            <div>
+<div align="right">
       <a href="https://github.com/Tawan-B#gh-light-mode-only">
           <img src="./assets/bombermanParty.gif" width="300px" height="300px"/>
       </a>
