@@ -96,7 +96,7 @@
 
 <!-- GitHub Stats (Light) -->
 <a href="https://github.com/Tawan-B#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&show_icons=true&theme=default" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&layout=compact&theme=transparent&bg_color=transparent&border_color=E472BB&show_icons=true&icon_color=E472BB&title_color=E472BB&text_color=58D26C" 
        alt="GitHub Stats (Light)" />
 </a>
 
@@ -108,7 +108,7 @@
 
 <!-- Top Languages (Light) -->
 <a href="https://github.com/Tawan-B#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=default" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&bg_color=transparent&border_color=E472BB&show_icons=true&icon_color=E472BB&title_color=E472BB&text_color=58D26C" 
        alt="Top Langs (Light)" />
 </a>
   </div>
