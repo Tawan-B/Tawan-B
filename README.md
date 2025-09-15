@@ -1,8 +1,26 @@
 <!--**Tawan-B/Tawan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" /></a>
-  <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
+
+<!-- Title (Dark) -->
+
+<a href="https://github.com/Tawan-B#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" />
+    <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
+</a>
+<a href="https://github.com/Tawan-B#gh-dark-mode-only">
+    <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
+</a>
+
+<!-- Title (Light) -->
+
+<a href="https://github.com/Tawan-B#gh-light-mode-only">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E472BB&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" alt="Typing SVG" />
+</a>
+<a href="https://github.com/Tawan-B#gh-light-mode-only">
+    <img src="./assets/bombermanLike.gif" width="100px" height="95px"/>
+</a>
+
 </div>
 <details>
   <summary>
@@ -69,6 +87,8 @@
 </details>
 </details>
   <div>
+<!-- GitHub Stats (Dark) -->
+    
 <a href="https://github.com/Tawan-B#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&theme=chartreuse-dark" 
        alt="GitHub Stats (Dark)" />
