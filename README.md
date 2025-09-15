@@ -6,7 +6,6 @@
 
 <a href="https://github.com/Tawan-B#gh-dark-mode-only">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" />
-    <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
 </a>
 <a href="https://github.com/Tawan-B#gh-dark-mode-only">
     <img src="./assets/falloutRead.gif" width="100px" height="95px"/>
