@@ -1,7 +1,7 @@
 <!--**Tawan-B/Tawan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-
+    
 <!-- Title (Dark) -->
 
 <a href="https://github.com/Tawan-B#gh-dark-mode-only">
@@ -14,7 +14,7 @@
 <!-- Title (Light) -->
 
 <a href="https://github.com/Tawan-B#gh-light-mode-only">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E472BB&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E472BB&width=435&lines=Greetings%2C+I'm+Tawan!;Currently+studying+I.T" alt="Typing SVG" />
 </a>
 <a href="https://github.com/Tawan-B#gh-light-mode-only">
     <img src="./assets/bombermanLike.gif" width="100px" height="95px"/>
