@@ -102,7 +102,7 @@
 <!-- GitHub Stats (Dark) -->
     
 <a href="https://github.com/Tawan-B#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&theme=chartreuse-dark" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" 
        alt="GitHub Stats (Dark)" />
 </a>
 
