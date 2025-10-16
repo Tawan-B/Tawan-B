@@ -114,7 +114,7 @@
 
 <!-- Top Languages (Dark) -->
 <a href="https://github.com/Tawan-B#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&bg_color=000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00)" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&bg_color=000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" 
        alt="Top Langs (Dark)" />
 </a>
 
