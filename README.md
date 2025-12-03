@@ -107,9 +107,7 @@
   <a href="https://github.com/Tawan-B#gh-dark-mode-only">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=00000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" 
          alt="GitHub Stats (Dark)" />
-  </a>
-  
-  <a href="https://github.com/Tawan-B#gh-dark-mode-only">
+  </a><a href="https://github.com/Tawan-B#gh-dark-mode-only">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&bg_color=00000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" 
          alt="Top Langs (Dark)" />
   </a>
