@@ -102,38 +102,50 @@
 ---
 
 </details>
-  <div>
-      
+<div>
+
+<!-- ===================== -->
 <!-- GitHub Stats (Dark) -->
+<!-- ===================== -->
 <p>
-<a href="https://github.com/Tawan-B#gh-dark-mode-only">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&theme=transparent&bg_color=00000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" 
-alt="GitHub Stats (Dark)"
-    height="180em" />
+  <a href="https://github.com/Tawan-B#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=00FF00"
+      alt="GitHub Stats (Dark)"
+      height="180em"
+    />
+  </a>
 
-</a>
-
-<!-- Top Languages (Dark) -->
-<a href="https://github.com/Tawan-B#gh-dark-mode-only">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&bg_color=00000000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" 
-alt="Top Langs (Dark)"
-    height="180em"
-style="display:inline-block; width: 48%;" />
-
-</a>
+  <a href="https://github.com/Tawan-B#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&border_color=00FF00&title_color=00FF00&text_color=00FF00"
+      alt="Top Languages (Dark)"
+      height="180em"
+    />
+  </a>
 </p>
 
+<!-- ===================== -->
 <!-- GitHub Stats (Light) -->
-<a href="https://github.com/Tawan-B#gh-light-mode-only">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&layout=compact&theme=transparent&bg_color=transparent&border_color=E472BB&show_icons=true&icon_color=E472BB&title_color=E472BB&text_color=58D26C" 
-       alt="GitHub Stats (Light)" />
-</a>
+<!-- ===================== -->
+<p>
+  <a href="https://github.com/Tawan-B#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=CCCCCC&title_color=333333&text_color=555555"
+      alt="GitHub Stats (Light)"
+      height="180em"
+    />
+  </a>
 
-<!-- Top Languages (Light) -->
-<a href="https://github.com/Tawan-B#gh-light-mode-only">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&bg_color=transparent&border_color=E472BB&show_icons=true&icon_color=E472BB&title_color=E472BB&text_color=58D26C" 
-       alt="Top Langs (Light)"
-      style="display:inline-block; width: 48%;"/>
-</a>
-  </div>
+  <a href="https://github.com/Tawan-B#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&border_color=CCCCCC&title_color=333333&text_color=555555"
+      alt="Top Languages (Light)"
+      height="180em"
+    />
+  </a>
+</p>
+
+</div>
 </details>
+
