@@ -44,7 +44,8 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 
   </div>
 </details>
@@ -110,7 +111,7 @@
 <p>
   <a href="https://github.com/Tawan-B#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=00FF00"
+      src="https://github-readme-stats.vercel.app/api?username=Tawan-B&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=00FF00&icon_color=00FF00&title_color=00FF00&text_color=00FF00"
       alt="GitHub Stats (Dark)"
       height="180em"
     />
@@ -118,7 +119,7 @@
 
   <a href="https://github.com/Tawan-B#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&border_color=00FF00&title_color=00FF00&text_color=00FF00"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&border_color=00FF00&title_color=00FF00&text_color=00FF00"
       alt="Top Languages (Dark)"
       height="180em"
     />
