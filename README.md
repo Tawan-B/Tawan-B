@@ -126,13 +126,12 @@
   </a>
 </p>
 
-<!-- ===================== -->
 <!-- GitHub Stats (Light) -->
 <!-- ===================== -->
 <p>
   <a href="https://github.com/Tawan-B#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-one-bice.vercel.app/api?username=Tawan-B&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=CCCCCC&title_color=333333&text_color=555555"
+      src="https://github-readme-stats.vercel.app/api?username=Tawan-B&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=CCCCCC&title_color=333333&text_color=555555"
       alt="GitHub Stats (Light)"
       height="180em"
     />
@@ -140,7 +139,7 @@
 
   <a href="https://github.com/Tawan-B#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&border_color=CCCCCC&title_color=333333&text_color=555555"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-B&layout=compact&theme=transparent&border_color=CCCCCC&title_color=333333&text_color=555555"
       alt="Top Languages (Light)"
       height="180em"
     />
