@@ -23,7 +23,7 @@
 </div>
 <details>
   <summary>
-    👨‍💻 I'm returning to my code and data journey after a short break, i enjoy learning new languages, libraries, and frameworks. I'm currently learning: 
+    👨‍💻 Exploring backend development, data, and the technologies behind great software. Currently learning:
   </summary>
   <br/>
   <div>
